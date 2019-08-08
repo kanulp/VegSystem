@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veg_system", "veg_system\veg_system.csproj", "{C2636644-973B-435A-9AA0-BD44CA7B6B42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2636644-973B-435A-9AA0-BD44CA7B6B42}.Debug|x86.ActiveCfg = Debug|x86
+		{C2636644-973B-435A-9AA0-BD44CA7B6B42}.Debug|x86.Build.0 = Debug|x86
+		{C2636644-973B-435A-9AA0-BD44CA7B6B42}.Release|x86.ActiveCfg = Release|x86
+		{C2636644-973B-435A-9AA0-BD44CA7B6B42}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
